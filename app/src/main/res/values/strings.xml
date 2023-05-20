@@ -1,0 +1,13 @@
+<resources>
+    <string name="app_name">MyYouTube</string>
+    <string name="mindfulme">MindfulMe</string>
+    <string name="cultivate_mindfulness_ignite_joy">Cultivate Mindfulness, Ignite Joy</string>
+    <string name="devices">Devices</string>
+    <string name="stats">Stats</string>
+    <string name="train">Train</string>
+    <string name="walking">Walking</string>
+    <string name="home">Home</string>
+    <string name="configure">Configure</string>
+    <string name="data">Data</string>
+    <string name="watch">Watch</string>
+</resources>
